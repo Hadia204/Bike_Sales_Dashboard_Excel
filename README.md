@@ -1,13 +1,13 @@
-Bike Sales Dashboard
+# Bike Sales Dashboard
 
 An interactive Microsoft Excel dashboard designed to analyze customer demographic data
 and identify key patterns in bicycle purchasing behavior.
 
- 📊 Overview
+ 📊 Overview:
 This project processes raw customer data to analyze how factors like income,
 commute distance, age, region, and education influence bike purchases. 
 
-🛠️ Tools & Skills Used
+🛠️ Tools & Skills Used:
 Microsoft Excel: 
 1.Data Cleaning
 2.Formulas & Functions
